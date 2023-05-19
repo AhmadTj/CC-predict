@@ -267,7 +267,7 @@ In this step you will set up the AWS API Gateway and the initial AWS Lambda func
 
 #### Part 1: Lambda Initialisation
 
-Part 1 involves creating the AWS Lambda Function with a Python 3.7 runtime. You will also attach the IAM role created within step 5 to govern the lambda function's access control.
+Part 1 involves creating the AWS Lambda Function with a Python 3.9 runtime (or the latest available version). You will also attach the IAM role created within step 5 to govern the lambda function's access control.
   
   
 #### Part 2: Layer Addition
