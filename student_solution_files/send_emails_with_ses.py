@@ -27,7 +27,7 @@ def lambda_handler(event, context):
 
     # Sample text that you would like to email to your recipient 
     # address from your sender address.
-    email_text = 'Insert your sample email here'
+    email_text = 'Hello, Thank you for your email.' #This is a sample response to test with.
 
     # ** SES Functionality **
 
